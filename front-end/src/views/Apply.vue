@@ -4,6 +4,7 @@
     <div class="applypage">
       <div class="apply">
         <h2 class = "title2">APPLY FOR FUNDING</h2>
+        <h4 class = "subtitle">This page currently is under construction, use the contact info in the footer if interested!</h4>
       </div>
       <form>
         <div class="form-group">
@@ -52,8 +53,13 @@ export default {
 
 .title2 {
   color: white;
-  padding: 100px;
+  padding: 50px 50px 0 50px;
   font-size: 40px;
+}
+
+.subtitle {
+  color: white;
+  padding-bottom: 20px;
 }
 
 form {
