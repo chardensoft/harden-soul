@@ -24,8 +24,7 @@
           <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
         </div>
       </form>
-      <button class="applybutton2" type="button">Apply Now!
-      </button>
+      <button class="applybutton2" type="button">(this does nothing)</button>
     </div>
     <Footer />
   </div>
@@ -68,7 +67,8 @@ form {
   margin: auto;
 }
 
-.applybutton2 {
+.applybutton2,
+.applybutton2:active {
   margin-left: 42.5%;
   width: 175px;
   background-color: #0000FF;
@@ -79,5 +79,13 @@ form {
   text-decoration: none;
   font-size: 16px;
   border-radius: 20px;
+  outline: 0 !important;
+}
+
+.applybutton2:hover,
+.applybutton2:active:hover {
+  cursor: pointer;
+  background-color: #8B7752;
+  color: white;
 }
 </style>

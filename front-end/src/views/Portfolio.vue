@@ -8,27 +8,6 @@
 
       <div class="companies">
         <div class="company">
-          <a class="comp_link" href="https://thewoodreportxc.com/" target="_blank">
-            <img class="comp_logo" src="../assets/images/wr.svg" />
-          </a>
-          </a>
-        </div>
-        <div class="company">
-          <a class="comp_link" href="https://www.facebook.com/housetoplights" target="_blank">
-            <img class="comp_logo" src="../assets/images/house.svg" />
-          </a>
-        </div>
-        <div class="company">
-          <a class="comp_link" href="https://www.fcf.io/" target="_blank">
-            <img class="comp_logo" src="../assets/images/fcf.svg" />
-          </a>
-        </div>
-        <div class="company">
-          <a class="comp_link" href="https://ensignathletics.org/" target="_blank">
-            <img class="comp_logo" src="../assets/images/ea.svg" />
-          </a>
-        </div>
-        <div class="company">
           <a class="comp_link" href="https://www.instagram.com/sports.dada/" target="_blank">
             <img class="comp_logo" src="../assets/images/sports.svg" />
           </a>
@@ -39,13 +18,14 @@
           </a>
         </div>
         <div class="company">
-          <a class="comp_link" href="https://www.citystreetstrat.com/" target="_blank">
-            <img class="comp_logo" src="../assets/images/css.svg" />
+          <a class="comp_link">
+            <img class="comp_logo" src="../assets/images/orca.svg" />
           </a>
         </div>
         <div class="company">
-          <a class="comp_link" href="http://www.pottersportsgroup.com/" target="_blank">
-            <img class="comp_logo" src="../assets/images/potter.svg" />
+          <a class="comp_link" href="https://thewoodreportxc.com/" target="_blank">
+            <img class="comp_logo" src="../assets/images/wr.svg" />
+          </a>
           </a>
         </div>
         <div class="company">
@@ -54,8 +34,13 @@
           </a>
         </div>
         <div class="company">
-          <a class="comp_link" href="https://tuttletwins.com/" target="_blank">
-            <img class="comp_logo" src="../assets/images/tuttle.svg" />
+          <a class="comp_link" href="https://www.fcf.io/" target="_blank">
+            <img class="comp_logo" src="../assets/images/fcf.svg" />
+          </a>
+        </div>
+        <div class="company">
+          <a class="comp_link" href="https://www.facebook.com/housetoplights" target="_blank">
+            <img class="comp_logo" src="../assets/images/house.svg" />
           </a>
         </div>
         <div class="company">
@@ -69,8 +54,23 @@
           </a>
         </div>
         <div class="company">
-          <a class="comp_link">
-            <img class="comp_logo" src="../assets/images/orca.svg" />
+          <a class="comp_link" href="https://tuttletwins.com/" target="_blank">
+            <img class="comp_logo" src="../assets/images/tuttle.svg" />
+          </a>
+        </div>
+        <div class="company">
+          <a class="comp_link" href="https://ensignathletics.org/" target="_blank">
+            <img class="comp_logo" src="../assets/images/ea.svg" />
+          </a>
+        </div>
+        <div class="company">
+          <a class="comp_link" href="https://www.citystreetstrat.com/" target="_blank">
+            <img class="comp_logo" src="../assets/images/css.svg" />
+          </a>
+        </div>
+        <div class="company">
+          <a class="comp_link" href="http://www.pottersportsgroup.com/" target="_blank">
+            <img class="comp_logo" src="../assets/images/potter.svg" />
           </a>
         </div>
       </div>

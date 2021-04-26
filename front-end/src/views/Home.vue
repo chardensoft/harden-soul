@@ -5,15 +5,15 @@
       <div class="intro">
         <div class="content">
           <h2 class = "title1">FINDING AND FUNDING THE BEST ENTREPRENEURS IN THE WORLD</h2>
-          <p class = "text1"><br>HS is a family-run venture fund focused on empowering early-career entrepreneurs.
+          <p class = "text1"><br>Harden Soul is a family-run venture fund focused on empowering early-career entrepreneurs.
             To date, HS has backed <b>12+ startups from first-time entrepreneurs</b>, which have
             collectively gone on to raise over $16M in additional funding.</p>
         </div>
         <div class="image">
-          <img class="bulb" src="../assets/bulb.png" />
+          <img class="bulb" src="../assets/bulb2.png" />
         </div>
       </div>
-      <button class="applybutton" onclick="location.href='/Apply'" type="button">Apply Now!</button>
+      <router-link to="/Apply" class="applybutton" tag="button">Apply Now!</router-link>
     </div>
     <Footer />
   </div>
@@ -64,7 +64,8 @@ export default {
   padding: 50px;
 }
 
-.applybutton {
+.applybutton,
+.applybutton:active {
   margin-left: 13.75%;
   background-color: #0000FF;
   border: none;
@@ -74,6 +75,14 @@ export default {
   text-decoration: none;
   font-size: 16px;
   border-radius: 20px;
+  outline: 0 !important;
+}
+
+.applybutton:hover,
+.applybutton:active:hover {
+  cursor: pointer;
+  background-color: #8B7752;
+  color: white;
 }
 
 /* Mobile Styles */
