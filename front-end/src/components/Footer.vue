@@ -1,7 +1,7 @@
 <template>
   <div class="footer bg-light">
     <h6 class = "header6">All content copyright © 2021 Harden Soul Fund</h6>
-    <h6 class ="header6"><a href="https://www.linkedin.com/in/chris-harden/" target="_blank">Or catch me on LinkedIn</a></h6>
+    <h6 class ="header6"><a href="https://www.linkedin.com/in/chris-harden/" target="_blank">Catch me on LinkedIn</a></h6>
   </div>
 </template>
 
