@@ -44,18 +44,8 @@
           </a>
         </div>
         <div class="company">
-          <a class="comp_link" href="https://www.vidangel.com/" target="_blank">
-            <img class="comp_logo" src="../assets/images/angel.svg" />
-          </a>
-        </div>
-        <div class="company">
           <a class="comp_link" href="https://www.youtube.com/watch?v=A7k7ls9UHNs" target="_blank">
             <img class="comp_logo" src="../assets/images/freelancer.svg" />
-          </a>
-        </div>
-        <div class="company">
-          <a class="comp_link" href="https://tuttletwins.com/" target="_blank">
-            <img class="comp_logo" src="../assets/images/tuttle.svg" />
           </a>
         </div>
         <div class="company">
